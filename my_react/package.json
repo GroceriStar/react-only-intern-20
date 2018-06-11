@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "flow-bin": "^0.74.0",
+    "jest": "^23.1.0",
     "raven": "^2.6.2",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
