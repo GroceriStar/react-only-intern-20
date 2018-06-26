@@ -22,7 +22,7 @@ class MonthChecker extends Component {
   render() {
     // Get current month
     let month = new Date().getMonth();
-    return <div>As I just said, the current month is {this.getMonthName(month)}.</div>;
+    return <div>The current month is {this.getMonthName(month)}.</div>;
   }
 }
 
